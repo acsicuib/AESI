@@ -1,6 +1,6 @@
 GRUPO C)
 
-** Con el fichero: Results.csv
+## Con el fichero: Results.csv
 
  1. Contabiliza cuantos mensajes atiende la entidad Client y Calculator
  2. De las peticiones que atiende calculator realiza la media geométrica de décima columna
@@ -8,7 +8,7 @@ GRUPO C)
  4. Contabiliza el tiempo en que se tarde en eliminar las dos primeras columnas del fichero
  5. ¿Cuántas peticiones se han realizado?
 
-** Sobre tu Sistema de ficheros:
+## Sobre tu Sistema de ficheros:
 
  6. Contabiliza todos los ficheros del sistema de ficheros con tamaño superior a los 100Mb y que contengan una "a"
  7. Genera 100 ficheros con un tamaño aleatorio entre 100B y 500B
