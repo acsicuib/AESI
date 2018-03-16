@@ -1,21 +1,28 @@
-## Con el fichero: db_requests.txt
+GRUPO B)
+-------
+Con el fichero: apache_requests.txt
 
-  1. Contabiliza y ordena el total de tipos de peticiones 
-  2. De las peticiones "insert" realizar la media armónica de la tercera columna
-  3. Genera un fichero con las peticiones "drop"
-  4. Para cada petición del tipo: "select" genera tantos ficheros (/tmp) con el tamaño expresado en la cuarta columna.
-  5. Comprueba que has generado tantos ficheros como peticiones había. 
 
-## Otro
+A) Ordena y contabiliza las direcciones de origenes de las diferentes peticiones
+B) Las peticiones con código 403 no son atendidas por problemas de ancho de banda. A este caso, aplicales el anterior apartado A.
+C) Crea un fichero con las peticiones con un tiempo de respuesta inferior a 7.0
+D) Haz la media aritmética de las peticiones con origen 255.x.x.x
+E) Cambia las IP por sus correspondientes nombres (hostnames)
+ "100.0.0.1","255.0.0.0","110.10.10.10","255.255.0.0","0.0.0.0"
+ "firewall","proxy","oracle-server","server","localhost"
+-------
 
-  6. Contabiliza todos los ficheros del sistema de ficheros con tamaño superior a los 100Mb
-  7. Borra los ficheros creados en 4, con un tamaño inferior a los 5000B.
+E) ¿Qué directorio de vuestro sistema de ficheros tiene el mayor tamaño?
 
-## Con el fichero: t8.shakespeare.txt
+-------
 
-  8. Contabiliza el tiempo en que se tarda en cambiar todas las palabras "The" por "DE"
-  9. ¿Cuántas palabras hay en dicho fichero?
-  
+-------
+Con el fichero: t8.shakespeare.txt
+
+F) Contabiliza el tiempo en que se tarda en cambiar todas las palabras "IN" por "EN"
+G) ¿Cuántas palabras hay en dicho fichero?
+-------
+
 
 # Entrega: 
   
