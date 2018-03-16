@@ -21,3 +21,5 @@
   
   Fichero ZIP -siguiendo el ejemplo inferior- con los nombres y apellidos de los integrantes del equipo que contiene los scripts nombrados con el número de la cuestión.
   Ejemplo:  G1M_LeraIsaac.zip
+
+Enviad el fichero a: isaac.lera@uib.es con asunto: "Practica AESI"
