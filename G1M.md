@@ -14,7 +14,7 @@ GRUPO C)
  7. Genera 100 ficheros con un tamaño aleatorio entre 100B y 500B
 
 
-## Con el fichero: t8.shakespeare.txt
+## Con el fichero: t8.shakespeare.txt
 
  8. Contabiliza el tiempo en que se tarda en cambiar todas las palabras "are" por "HAH"
  9. ¿Cuántas palabras hay en dicho fichero?
