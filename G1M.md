@@ -9,7 +9,7 @@
 ## Otro
 
   6. Contabiliza todos los ficheros del sistema de ficheros con tamaño superior a los 100Mb
-  7. Borra los ficheros creados en D, con un tamaño inferior a los 5000B.
+  7. Borra los ficheros creados en 4, con un tamaño inferior a los 5000B.
 
 ## Con el fichero: t8.shakespeare.txt
 
