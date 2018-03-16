@@ -1,27 +1,27 @@
-GRUPO B)
+GRUPO C)
 
-Con el fichero: apache_requests.txt
+** Con el fichero: Results.csv
 
- 1.  Ordena y contabiliza las direcciones de origenes de las diferentes peticiones
- 2. Las peticiones con código 403 no son atendidas por problemas de ancho de banda. A este caso, aplicales el anterior apartado A. 
- 3. Crea un fichero con las peticiones con un tiempo de respuesta inferior a 7.0
- 4.  Haz la media aritmética de las peticiones con origen 255.x.x.x
- 5.  Cambia las IP por sus correspondientes nombres (hostnames)
- "100.0.0.1","255.0.0.0","110.10.10.10","255.255.0.0","0.0.0.0"
- "firewall","proxy","oracle-server","server","localhost"
+ 1. Contabiliza cuantos mensajes atiende la entidad Client y Calculator
+ 2. De las peticiones que atiende calculator realiza la media geométrica de décima columna
+ 3. Genera un fichero con las peticiones "M.EGG" y "M.Global_State_Update"
+ 4. Contabiliza el tiempo en que se tarde en eliminar las dos primeras columnas del fichero
+ 5. ¿Cuántas peticiones se han realizado?
+
+** Sobre tu Sistema de ficheros:
+
+ 6. Contabiliza todos los ficheros del sistema de ficheros con tamaño superior a los 100Mb y que contengan una "a"
+ 7. Genera 100 ficheros con un tamaño aleatorio entre 100B y 500B
 
 
- 6. ¿Qué directorio de vuestro sistema de ficheros tiene el mayor tamaño?
+## Con el fichero: t8.shakespeare.txt
 
-Con el fichero: t8.shakespeare.txt
-
- 7. Contabiliza el tiempo en que se tarda en cambiar todas las palabras "IN" por "EN"
- 8. ¿Cuántas palabras hay en dicho fichero?
-
+ 8. Contabiliza el tiempo en que se tarda en cambiar todas las palabras "are" por "HAH"
+ 9. ¿Cuántas palabras hay en dicho fichero?
 
 # Entrega: 
   
   Fichero ZIP -siguiendo el ejemplo inferior- con los nombres y apellidos de los integrantes del equipo que contiene los scripts nombrados con el número de la cuestión.
-  Ejemplo:  G1M_LeraIsaac.zip
+  Ejemplo:  G2M_LeraIsaac.zip
 
 Enviad el fichero a: isaac.lera@uib.es con asunto: "Practica AESI"
